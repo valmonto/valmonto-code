@@ -1,9 +1,9 @@
-# axium-ai
+# valmonto-code
 
-Here will be stored all patches / features that are for axium-ai capabilities.
+Here will be stored all patches / features that are for valmonto-code capabilities.
 Avoid commiting any code out of this repo, to avoid merge conflicts that might happen when syncing main branch from vscode.
 
-The concept will be that when building the image, we will apply patches / updates that enables axium-ai capabilities.
+The concept will be that when building the image, we will apply patches / updates that enables valmonto-code capabilities.
 (Modifying core / adding features / whatever needed).
 
 Main principle to make this as portable as possible without polution vscode original files in repo.
