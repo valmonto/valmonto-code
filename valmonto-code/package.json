@@ -1,9 +1,9 @@
 {
-  "name": "axium-ai",
+  "name": "valmonto-code",
   "version": "0.0.1",
   "description": "A VSCode fork that adds extra AI features I have found useful during my manual workflows when writing software",
   "keywords": [
-    "axium-ai",
+    "valmonto-code",
     "vscode-fork"
   ],
   "license": "MIT",
@@ -12,5 +12,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.2"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4"
   }
 }
